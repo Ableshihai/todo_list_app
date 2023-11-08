@@ -10,8 +10,8 @@ app = Flask(__name__, static_folder='path/to/static')
 # Database Configurations
 config = {
     'user': 'springadmin',
-    'password': 'able22661069HKBU',  # Replace with your password
-    'host': 'hdds2401-t05-able2.mysql.database.azure.com',  # Replace with your host
+    'password': 'able22661069HKBU', 
+    'host': 'hdds2401-t05-able2.mysql.database.azure.com',
     'database': 'todo_list_db',
 }
 
