@@ -1,15 +1,21 @@
 # HKBU HDDS2401
 # Cloud Services and Architectures (Section A)
-# Zeng Shihai 22661069
+# Zeng Shihai 22661069 Group leader
+# Wu Chun Yeung 22661042
+# Chu Tak Ming 22661107
+# Tang Ka Shun  22661018
+# Group project
 
-# To-do list Web App
 
-The program should be able to:
-• Add a task.
-• Remove a task.
-• Modify a task.
+# Educational media sharing webapp for Hong Kong secondary schools
 
-App URL: https://todolistable.azurewebsites.net/
+The program(front webapp) should be able to:
+   Search videos(index.html) by their name or keyword. Display these video in video.html
+   Randomly display a video in the index.html. The title is "Recommended by machining learning". Every time you refresh the page, a random video will be displayed. 
+
+By the way, the back-end portal is running on virtual machine.
+
+App URL: educationalwebapp.azurewebsites.net
 
 ## Prerequisites
 
@@ -24,8 +30,8 @@ Before you begin, ensure you have met the following requirements:
 
 Use Git to clone the source code to your local machine.
 
-   git clone https://github.com/Ableshihai/todo_list_app.git
-   cd todo_list_app
+   git clone https://github.com/Ableshihai/frontweb.git
+   cd frontweb
 
  # How to install the application to the Azure cloud
 
